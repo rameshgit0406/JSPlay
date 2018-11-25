@@ -1,0 +1,2 @@
+# JSPlay
+JavaScript practice
